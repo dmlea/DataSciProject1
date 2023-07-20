@@ -14,11 +14,12 @@ relatively simple nature of the data.
 
 Jupyter notebook analyzes a dataset of European restaurant ratings, providing answers to three questions:
 
-    1) Which cities have the highest rated low and moderately priced restaurants?
+    1) Which cities have the highest rated low and moderately priced restaurants? (Athens, Krakow, Rome, Berlin, Amsterdam, Ljubljana)
 
     2) Regardless of price range, which cities have the highest average ratings for Mediterranean and Vegetarian Friendly restaurants?
+    (Mediterranean: Edinburgh, Dublin, Krakow, Prague) (Veg Friendly: Bratislava, Athens, Prague, Lisbon)
 
-    3) Which cities would be good candidates for opening an American restaurant?
+    3) Which cities would be good candidates for opening an American restaurant? (Helsinki, Stockholm, Oslo, Zurich, Milan)
  
 ## Files
 
