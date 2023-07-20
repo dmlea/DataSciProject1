@@ -12,7 +12,7 @@ relatively simple nature of the data.
 
 ## Summary of results
 
-Jupyter notebook analyzes a dataset of European restaurant ratings to answer three questions:
+Jupyter notebook analyzes a dataset of European restaurant ratings, providing answers to three questions:
 
     1) Which cities have the highest rated low and moderately priced restaurants?
 
